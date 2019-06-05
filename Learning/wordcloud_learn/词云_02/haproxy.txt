@@ -1,0 +1,42 @@
+﻿betago
+moocxing
+AI
+betago
+betago betago betago
+moocxing
+betago
+moocxing
+AI
+betago
+moocxing
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+f open
+with open
+mytext fread  
+wordcloud WordCloud generate mytext 
+pltshow 
+betago
+moocxing
+AI
+betago
+moocxing
+betago
+moocxing
+AI
+betago
+moocxing
+moocxing moocxing moocxing moocxing moocxing
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+f=open('haproxy.txt','r')
+#with open('haproxy.txt','r') as f:
+mytext = f.read()
+    
+wordcloud = WordCloud().generate(mytext)
+
+plt.imshow(wordcloud,interpolation="bilinear")
+
+plt.axis("off")
+
+plt.show()
