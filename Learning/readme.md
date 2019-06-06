@@ -1,3 +1,3 @@
 
 # ![](yang.png)
-# ![](out.png)
+# ![](wordcloud_learn/out.png)
