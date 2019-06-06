@@ -1,13 +1,13 @@
-﻿betago
+﻿batago
 moocxing
 AI
-betago
-betago betago betago
+batago
+batago batago batago
 moocxing
-betago
+batago
 moocxing
 AI
-betago
+batago
 moocxing
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
@@ -16,15 +16,15 @@ with open
 mytext fread  
 wordcloud WordCloud generate mytext 
 pltshow 
-betago
+batago
 moocxing
 AI
-betago
+batago
 moocxing
-betago
+batago
 moocxing
 AI
-betago
+batago
 moocxing
 moocxing moocxing moocxing moocxing moocxing
 from wordcloud import WordCloud
